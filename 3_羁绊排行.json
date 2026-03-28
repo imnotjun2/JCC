@@ -1,0 +1,2630 @@
+{
+    "data": {
+        "result": {
+            "rows": [
+                {
+                    "id": 82510101,
+                    "name": "2 护卫",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_defender.png",
+                    "numList": [
+                        "2",
+                        "4",
+                        "6"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 1,
+                        "num": 2,
+                        "color": 1
+                    },
+                    "allPickRate": [
+                        58.22,
+                        4.65
+                    ],
+                    "avgRanking": 4.49,
+                    "pickRate_4": 50.22,
+                    "pickRate_1": 12.61
+                },
+                {
+                    "id": 82900101,
+                    "name": "2 皮尔特沃夫",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_piltover.png",
+                    "numList": [
+                        "2",
+                        "4",
+                        "6"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 1,
+                        "num": 2,
+                        "color": 1
+                    },
+                    "allPickRate": [
+                        46.07,
+                        3.68
+                    ],
+                    "avgRanking": 4.44,
+                    "pickRate_4": 51.58,
+                    "pickRate_1": 9.8
+                },
+                {
+                    "id": 82560101,
+                    "name": "2 主宰",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_juggernaut.png",
+                    "numList": [
+                        "2",
+                        "4",
+                        "6"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 1,
+                        "num": 2,
+                        "color": 1
+                    },
+                    "allPickRate": [
+                        40.64,
+                        3.25
+                    ],
+                    "avgRanking": 4.09,
+                    "pickRate_4": 56.3,
+                    "pickRate_1": 18.87
+                },
+                {
+                    "id": 82740101,
+                    "name": "1 龙血武姬",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_dragonborn.png",
+                    "numList": [
+                        "1"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 1,
+                        "num": 1,
+                        "color": 5
+                    },
+                    "allPickRate": [
+                        39.45,
+                        3.15
+                    ],
+                    "avgRanking": 3.89,
+                    "pickRate_4": 60.1,
+                    "pickRate_1": 20.97
+                },
+                {
+                    "id": 82570101,
+                    "name": "2 法师",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_arcanist.png",
+                    "numList": [
+                        "2",
+                        "4",
+                        "6"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 1,
+                        "num": 2,
+                        "color": 1
+                    },
+                    "allPickRate": [
+                        36.45,
+                        2.91
+                    ],
+                    "avgRanking": 4.18,
+                    "pickRate_4": 56.02,
+                    "pickRate_1": 15.07
+                },
+                {
+                    "id": 82760101,
+                    "name": "1 系魂圣枪",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_soulbound.png",
+                    "numList": [
+                        "1"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 1,
+                        "num": 1,
+                        "color": 5
+                    },
+                    "allPickRate": [
+                        34.23,
+                        2.73
+                    ],
+                    "avgRanking": 3.92,
+                    "pickRate_4": 59.91,
+                    "pickRate_1": 20.43
+                },
+                {
+                    "id": 82520101,
+                    "name": "1 巨神峰",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_targon.png",
+                    "numList": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 1,
+                        "num": 1,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        23.11,
+                        1.84
+                    ],
+                    "avgRanking": 4.53,
+                    "pickRate_4": 49.2,
+                    "pickRate_1": 11.74
+                },
+                {
+                    "id": 82650101,
+                    "name": "1 解脱者",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_chainbreaker.png",
+                    "numList": [
+                        "1"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 1,
+                        "num": 1,
+                        "color": 5
+                    },
+                    "allPickRate": [
+                        23.02,
+                        1.84
+                    ],
+                    "avgRanking": 3.32,
+                    "pickRate_4": 71.21,
+                    "pickRate_1": 26.58
+                },
+                {
+                    "id": 82580101,
+                    "name": "2 神盾使",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_warden.png",
+                    "numList": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 1,
+                        "num": 2,
+                        "color": 1
+                    },
+                    "allPickRate": [
+                        21.73,
+                        1.73
+                    ],
+                    "avgRanking": 4.42,
+                    "pickRate_4": 51.25,
+                    "pickRate_1": 10.64
+                },
+                {
+                    "id": 82590101,
+                    "name": "2 迅击战士",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_quickstriker.png",
+                    "numList": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 1,
+                        "num": 2,
+                        "color": 1
+                    },
+                    "allPickRate": [
+                        21.73,
+                        1.73
+                    ],
+                    "avgRanking": 4.33,
+                    "pickRate_4": 52.14,
+                    "pickRate_1": 14.44
+                },
+                {
+                    "id": 82920101,
+                    "name": "1 山隐之焰",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_blacksmith.png",
+                    "numList": [
+                        "1"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 1,
+                        "num": 1,
+                        "color": 5
+                    },
+                    "allPickRate": [
+                        20.89,
+                        1.67
+                    ],
+                    "avgRanking": 4.28,
+                    "pickRate_4": 52.25,
+                    "pickRate_1": 18.17
+                },
+                {
+                    "id": 82660101,
+                    "name": "1 永猎双子",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_eternal.png",
+                    "numList": [
+                        "1"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 1,
+                        "num": 1,
+                        "color": 5
+                    },
+                    "allPickRate": [
+                        19.99,
+                        1.59
+                    ],
+                    "avgRanking": 4.15,
+                    "pickRate_4": 55.28,
+                    "pickRate_1": 17.59
+                },
+                {
+                    "id": 82610101,
+                    "name": "2 斗士",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_brawler.png",
+                    "numList": [
+                        "2",
+                        "4",
+                        "6"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 1,
+                        "num": 2,
+                        "color": 1
+                    },
+                    "allPickRate": [
+                        18.74,
+                        1.49
+                    ],
+                    "avgRanking": 4.24,
+                    "pickRate_4": 54.24,
+                    "pickRate_1": 14.46
+                },
+                {
+                    "id": 82600101,
+                    "name": "2 枪手",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_gunslinger.png",
+                    "numList": [
+                        "2",
+                        "4"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 1,
+                        "num": 2,
+                        "color": 1
+                    },
+                    "allPickRate": [
+                        16.12,
+                        1.28
+                    ],
+                    "avgRanking": 4.27,
+                    "pickRate_4": 53.93,
+                    "pickRate_1": 13.71
+                },
+                {
+                    "id": 82820101,
+                    "name": "1 正义巨像",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_heroic.png",
+                    "numList": [
+                        "1"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 1,
+                        "num": 1,
+                        "color": 5
+                    },
+                    "allPickRate": [
+                        14.96,
+                        1.19
+                    ],
+                    "avgRanking": 3.53,
+                    "pickRate_4": 71.05,
+                    "pickRate_1": 15.16
+                },
+                {
+                    "id": 82510102,
+                    "name": "4 护卫",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_defender.png",
+                    "numList": [
+                        "2",
+                        "4",
+                        "6"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 2,
+                        "num": 4,
+                        "color": 2
+                    },
+                    "allPickRate": [
+                        13.97,
+                        1.11
+                    ],
+                    "avgRanking": 4.2,
+                    "pickRate_4": 56.25,
+                    "pickRate_1": 11.05
+                },
+                {
+                    "id": 82500101,
+                    "name": "2 虚空",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_void.png",
+                    "numList": [
+                        "2",
+                        "4",
+                        "6",
+                        "9"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 1,
+                        "num": 2,
+                        "color": 1
+                    },
+                    "allPickRate": [
+                        13.82,
+                        1.1
+                    ],
+                    "avgRanking": 4.25,
+                    "pickRate_4": 56.53,
+                    "pickRate_1": 6.68
+                },
+                {
+                    "id": 82850101,
+                    "name": "2 耀光使",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_disruptor.png",
+                    "numList": [
+                        "2",
+                        "4"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 1,
+                        "num": 2,
+                        "color": 1
+                    },
+                    "allPickRate": [
+                        13.02,
+                        1.04
+                    ],
+                    "avgRanking": 4.23,
+                    "pickRate_4": 56.44,
+                    "pickRate_1": 7.54
+                },
+                {
+                    "id": 82670101,
+                    "name": "1 远古恐惧",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_harvester.png",
+                    "numList": [
+                        "1"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 1,
+                        "num": 1,
+                        "color": 5
+                    },
+                    "allPickRate": [
+                        12.03,
+                        0.96
+                    ],
+                    "avgRanking": 4.02,
+                    "pickRate_4": 57.79,
+                    "pickRate_1": 19.87
+                },
+                {
+                    "id": 82960101,
+                    "name": "3 德玛西亚",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_demacia.png",
+                    "numList": [
+                        "3",
+                        "5",
+                        "7",
+                        "11"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 1,
+                        "num": 3,
+                        "color": 1
+                    },
+                    "allPickRate": [
+                        11.76,
+                        0.94
+                    ],
+                    "avgRanking": 5.05,
+                    "pickRate_4": 37.33,
+                    "pickRate_1": 6.6
+                },
+                {
+                    "id": 82780101,
+                    "name": "1 河流之王",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_glutton.png",
+                    "numList": [
+                        "1"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 1,
+                        "num": 1,
+                        "color": 5
+                    },
+                    "allPickRate": [
+                        11.46,
+                        0.91
+                    ],
+                    "avgRanking": 4.15,
+                    "pickRate_4": 54.6,
+                    "pickRate_1": 16.39
+                },
+                {
+                    "id": 82860101,
+                    "name": "1 星界游神",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_caretaker.png",
+                    "numList": [
+                        "1"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 1,
+                        "num": 1,
+                        "color": 5
+                    },
+                    "allPickRate": [
+                        11.34,
+                        0.9
+                    ],
+                    "avgRanking": 5.32,
+                    "pickRate_4": 36.73,
+                    "pickRate_1": 5.12
+                },
+                {
+                    "id": 82620101,
+                    "name": "3 诺克萨斯",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_noxus.png",
+                    "numList": [
+                        "3",
+                        "5",
+                        "7",
+                        "10"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 1,
+                        "num": 3,
+                        "color": 1
+                    },
+                    "allPickRate": [
+                        10.67,
+                        0.85
+                    ],
+                    "avgRanking": 4.58,
+                    "pickRate_4": 46.92,
+                    "pickRate_1": 14.36
+                },
+                {
+                    "id": 82640101,
+                    "name": "1 虚空之女",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_assimilator.png",
+                    "numList": [
+                        "1"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 1,
+                        "num": 1,
+                        "color": 5
+                    },
+                    "allPickRate": [
+                        10.18,
+                        0.81
+                    ],
+                    "avgRanking": 4.47,
+                    "pickRate_4": 51.85,
+                    "pickRate_1": 7.42
+                },
+                {
+                    "id": 82960102,
+                    "name": "5 德玛西亚",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_demacia.png",
+                    "numList": [
+                        "3",
+                        "5",
+                        "7",
+                        "11"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 2,
+                        "num": 5,
+                        "color": 2
+                    },
+                    "allPickRate": [
+                        10.06,
+                        0.8
+                    ],
+                    "avgRanking": 3.57,
+                    "pickRate_4": 71.44,
+                    "pickRate_1": 13.25
+                },
+                {
+                    "id": 82800101,
+                    "name": "1 黑暗之女",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_darkchild.png",
+                    "numList": [
+                        "1"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 1,
+                        "num": 1,
+                        "color": 5
+                    },
+                    "allPickRate": [
+                        9.16,
+                        0.73
+                    ],
+                    "avgRanking": 4.3,
+                    "pickRate_4": 52.63,
+                    "pickRate_1": 19.47
+                },
+                {
+                    "id": 82870101,
+                    "name": "2 狙神",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_longshot.png",
+                    "numList": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 1,
+                        "num": 2,
+                        "color": 1
+                    },
+                    "allPickRate": [
+                        8.88,
+                        0.71
+                    ],
+                    "avgRanking": 4.48,
+                    "pickRate_4": 50.15,
+                    "pickRate_1": 12.11
+                },
+                {
+                    "id": 82520102,
+                    "name": "2 巨神峰",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_targon.png",
+                    "numList": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 2,
+                        "num": 2,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        8.72,
+                        0.69
+                    ],
+                    "avgRanking": 4.45,
+                    "pickRate_4": 51.92,
+                    "pickRate_1": 5.93
+                },
+                {
+                    "id": 83020101,
+                    "name": "3 比尔吉沃特",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_bilgewater.png",
+                    "numList": [
+                        "3",
+                        "5",
+                        "7",
+                        "10"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 1,
+                        "num": 3,
+                        "color": 1
+                    },
+                    "allPickRate": [
+                        8.63,
+                        0.69
+                    ],
+                    "avgRanking": 4.05,
+                    "pickRate_4": 57.79,
+                    "pickRate_1": 18.13
+                },
+                {
+                    "id": 82870102,
+                    "name": "3 狙神",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_longshot.png",
+                    "numList": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 2,
+                        "num": 3,
+                        "color": 2
+                    },
+                    "allPickRate": [
+                        8.48,
+                        0.67
+                    ],
+                    "avgRanking": 4.36,
+                    "pickRate_4": 53.92,
+                    "pickRate_1": 8.59
+                },
+                {
+                    "id": 82880101,
+                    "name": "2 神谕者",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_invoker.png",
+                    "numList": [
+                        "2",
+                        "4"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 1,
+                        "num": 2,
+                        "color": 1
+                    },
+                    "allPickRate": [
+                        8.41,
+                        0.67
+                    ],
+                    "avgRanking": 4.92,
+                    "pickRate_4": 40.8,
+                    "pickRate_1": 16.71
+                },
+                {
+                    "id": 82770101,
+                    "name": "1 狂野女猎手",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_huntress.png",
+                    "numList": [
+                        "1"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 1,
+                        "num": 1,
+                        "color": 5
+                    },
+                    "allPickRate": [
+                        8.41,
+                        0.67
+                    ],
+                    "avgRanking": 5,
+                    "pickRate_4": 38.6,
+                    "pickRate_1": 20.66
+                },
+                {
+                    "id": 82990101,
+                    "name": "1 暗裔",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/plus_trait_icon_darkin.png",
+                    "numList": [
+                        "1",
+                        "2",
+                        "3"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 1,
+                        "num": 1,
+                        "color": 1
+                    },
+                    "allPickRate": [
+                        8.19,
+                        0.65
+                    ],
+                    "avgRanking": 4.05,
+                    "pickRate_4": 56.82,
+                    "pickRate_1": 19.39
+                },
+                {
+                    "id": 82930101,
+                    "name": "3 弗雷尔卓德",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_freljord.png",
+                    "numList": [
+                        "3",
+                        "5",
+                        "7"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 1,
+                        "num": 3,
+                        "color": 1
+                    },
+                    "allPickRate": [
+                        7.26,
+                        0.58
+                    ],
+                    "avgRanking": 4.44,
+                    "pickRate_4": 51.31,
+                    "pickRate_1": 9.2
+                },
+                {
+                    "id": 83010102,
+                    "name": "5 以绪塔尔",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_ixtal.png",
+                    "numList": [
+                        "3",
+                        "5",
+                        "7"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 2,
+                        "num": 5,
+                        "color": 2
+                    },
+                    "allPickRate": [
+                        6.03,
+                        0.48
+                    ],
+                    "avgRanking": 5.49,
+                    "pickRate_4": 30.23,
+                    "pickRate_1": 15.62
+                },
+                {
+                    "id": 83020102,
+                    "name": "5 比尔吉沃特",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_bilgewater.png",
+                    "numList": [
+                        "3",
+                        "5",
+                        "7",
+                        "10"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 2,
+                        "num": 5,
+                        "color": 2
+                    },
+                    "allPickRate": [
+                        5.48,
+                        0.43
+                    ],
+                    "avgRanking": 4.54,
+                    "pickRate_4": 47.59,
+                    "pickRate_1": 11.23
+                },
+                {
+                    "id": 82550101,
+                    "name": "3 祖安",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_zaun.png",
+                    "numList": [
+                        "3",
+                        "5",
+                        "7"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 1,
+                        "num": 3,
+                        "color": 1
+                    },
+                    "allPickRate": [
+                        5.46,
+                        0.43
+                    ],
+                    "avgRanking": 4.59,
+                    "pickRate_4": 49.08,
+                    "pickRate_1": 6.69
+                },
+                {
+                    "id": 82890101,
+                    "name": "1 海克斯机甲",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_hexmech.png",
+                    "numList": [
+                        "1"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 1,
+                        "num": 1,
+                        "color": 5
+                    },
+                    "allPickRate": [
+                        5.24,
+                        0.41
+                    ],
+                    "avgRanking": 4.54,
+                    "pickRate_4": 47.34,
+                    "pickRate_1": 15.39
+                },
+                {
+                    "id": 82600102,
+                    "name": "4 枪手",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_gunslinger.png",
+                    "numList": [
+                        "2",
+                        "4"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 2,
+                        "num": 4,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        4.94,
+                        0.39
+                    ],
+                    "avgRanking": 4.3,
+                    "pickRate_4": 52.31,
+                    "pickRate_1": 17.39
+                },
+                {
+                    "id": 82570103,
+                    "name": "6 法师",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_arcanist.png",
+                    "numList": [
+                        "2",
+                        "4",
+                        "6"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 3,
+                        "num": 6,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        4.8,
+                        0.38
+                    ],
+                    "avgRanking": 3.93,
+                    "pickRate_4": 59.72,
+                    "pickRate_1": 21.08
+                },
+                {
+                    "id": 82570102,
+                    "name": "4 法师",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_arcanist.png",
+                    "numList": [
+                        "2",
+                        "4",
+                        "6"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 2,
+                        "num": 4,
+                        "color": 2
+                    },
+                    "allPickRate": [
+                        4.68,
+                        0.37
+                    ],
+                    "avgRanking": 4.19,
+                    "pickRate_4": 54.65,
+                    "pickRate_1": 20.04
+                },
+                {
+                    "id": 83010101,
+                    "name": "3 以绪塔尔",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_ixtal.png",
+                    "numList": [
+                        "3",
+                        "5",
+                        "7"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 1,
+                        "num": 3,
+                        "color": 1
+                    },
+                    "allPickRate": [
+                        4.66,
+                        0.37
+                    ],
+                    "avgRanking": 4.19,
+                    "pickRate_4": 54.12,
+                    "pickRate_1": 32.52
+                },
+                {
+                    "id": 82540101,
+                    "name": "2 裁决战士",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_slayer.png",
+                    "numList": [
+                        "2",
+                        "4",
+                        "6"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 1,
+                        "num": 2,
+                        "color": 1
+                    },
+                    "allPickRate": [
+                        4.53,
+                        0.36
+                    ],
+                    "avgRanking": 4.34,
+                    "pickRate_4": 53.48,
+                    "pickRate_1": 11.91
+                },
+                {
+                    "id": 82840101,
+                    "name": "2 约德尔人",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_yordle.png",
+                    "numList": [
+                        "2",
+                        "4",
+                        "6",
+                        "8"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 1,
+                        "num": 2,
+                        "color": 1
+                    },
+                    "allPickRate": [
+                        4.23,
+                        0.33
+                    ],
+                    "avgRanking": 4.3,
+                    "pickRate_4": 53.9,
+                    "pickRate_1": 13.25
+                },
+                {
+                    "id": 82980101,
+                    "name": "1 腕豪",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_theboss.png",
+                    "numList": [
+                        "1"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 1,
+                        "num": 1,
+                        "color": 5
+                    },
+                    "allPickRate": [
+                        3.97,
+                        0.31
+                    ],
+                    "avgRanking": 3.78,
+                    "pickRate_4": 64.82,
+                    "pickRate_1": 14.95
+                },
+                {
+                    "id": 82940101,
+                    "name": "1 时光守护者",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_chronokeeper.png",
+                    "numList": [
+                        "1"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 1,
+                        "num": 1,
+                        "color": 5
+                    },
+                    "allPickRate": [
+                        3.9,
+                        0.31
+                    ],
+                    "avgRanking": 3.93,
+                    "pickRate_4": 58,
+                    "pickRate_1": 27.38
+                },
+                {
+                    "id": 82580102,
+                    "name": "3 神盾使",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_warden.png",
+                    "numList": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 2,
+                        "num": 3,
+                        "color": 2
+                    },
+                    "allPickRate": [
+                        3.82,
+                        0.3
+                    ],
+                    "avgRanking": 4.59,
+                    "pickRate_4": 47.46,
+                    "pickRate_1": 13.09
+                },
+                {
+                    "id": 82580103,
+                    "name": "4 神盾使",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_warden.png",
+                    "numList": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 3,
+                        "num": 4,
+                        "color": 2
+                    },
+                    "allPickRate": [
+                        3.43,
+                        0.27
+                    ],
+                    "avgRanking": 4.28,
+                    "pickRate_4": 52.47,
+                    "pickRate_1": 17.44
+                },
+                {
+                    "id": 82530101,
+                    "name": "2 征服者",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_vanquisher.png",
+                    "numList": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 1,
+                        "num": 2,
+                        "color": 1
+                    },
+                    "allPickRate": [
+                        3.16,
+                        0.25
+                    ],
+                    "avgRanking": 4.4,
+                    "pickRate_4": 50.3,
+                    "pickRate_1": 14.57
+                },
+                {
+                    "id": 82520103,
+                    "name": "3 巨神峰",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_targon.png",
+                    "numList": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 3,
+                        "num": 3,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        2.89,
+                        0.23
+                    ],
+                    "avgRanking": 3.44,
+                    "pickRate_4": 75.54,
+                    "pickRate_1": 8.27
+                },
+                {
+                    "id": 82830101,
+                    "name": "1 符文法师",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_runemage.png",
+                    "numList": [
+                        "1"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 1,
+                        "num": 1,
+                        "color": 5
+                    },
+                    "allPickRate": [
+                        2.54,
+                        0.2
+                    ],
+                    "avgRanking": 4.21,
+                    "pickRate_4": 54.58,
+                    "pickRate_1": 13.88
+                },
+                {
+                    "id": 82950101,
+                    "name": "1 沙漠皇帝",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_emperor.png",
+                    "numList": [
+                        "1"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 1,
+                        "num": 1,
+                        "color": 5
+                    },
+                    "allPickRate": [
+                        2.49,
+                        0.19
+                    ],
+                    "avgRanking": 4.51,
+                    "pickRate_4": 47.95,
+                    "pickRate_1": 15.6
+                },
+                {
+                    "id": 82610102,
+                    "name": "4 斗士",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_brawler.png",
+                    "numList": [
+                        "2",
+                        "4",
+                        "6"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 2,
+                        "num": 4,
+                        "color": 2
+                    },
+                    "allPickRate": [
+                        2.04,
+                        0.16
+                    ],
+                    "avgRanking": 4.56,
+                    "pickRate_4": 47.01,
+                    "pickRate_1": 12.26
+                },
+                {
+                    "id": 82960103,
+                    "name": "7 德玛西亚",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_demacia.png",
+                    "numList": [
+                        "3",
+                        "5",
+                        "7",
+                        "11"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 3,
+                        "num": 7,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        1.72,
+                        0.13
+                    ],
+                    "avgRanking": 4.21,
+                    "pickRate_4": 57.8,
+                    "pickRate_1": 9.31
+                },
+                {
+                    "id": 82590102,
+                    "name": "3 迅击战士",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_quickstriker.png",
+                    "numList": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 2,
+                        "num": 3,
+                        "color": 2
+                    },
+                    "allPickRate": [
+                        1.72,
+                        0.13
+                    ],
+                    "avgRanking": 4.3,
+                    "pickRate_4": 54.22,
+                    "pickRate_1": 14.24
+                },
+                {
+                    "id": 83020103,
+                    "name": "7 比尔吉沃特",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_bilgewater.png",
+                    "numList": [
+                        "3",
+                        "5",
+                        "7",
+                        "10"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 3,
+                        "num": 7,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        1.53,
+                        0.12
+                    ],
+                    "avgRanking": 6.06,
+                    "pickRate_4": 17.35,
+                    "pickRate_1": 2.41
+                },
+                {
+                    "id": 82870103,
+                    "name": "4 狙神",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_longshot.png",
+                    "numList": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 3,
+                        "num": 4,
+                        "color": 2
+                    },
+                    "allPickRate": [
+                        1.17,
+                        0.09
+                    ],
+                    "avgRanking": 3.87,
+                    "pickRate_4": 62.63,
+                    "pickRate_1": 11.33
+                },
+                {
+                    "id": 82750101,
+                    "name": "2 恕瑞玛",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_shurima.png",
+                    "numList": [
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 1,
+                        "num": 2,
+                        "color": 1
+                    },
+                    "allPickRate": [
+                        1.1,
+                        0.08
+                    ],
+                    "avgRanking": 4.89,
+                    "pickRate_4": 39.44,
+                    "pickRate_1": 10.25
+                },
+                {
+                    "id": 82900102,
+                    "name": "4 皮尔特沃夫",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_piltover.png",
+                    "numList": [
+                        "2",
+                        "4",
+                        "6"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 2,
+                        "num": 4,
+                        "color": 2
+                    },
+                    "allPickRate": [
+                        1.1,
+                        0.08
+                    ],
+                    "avgRanking": 5.39,
+                    "pickRate_4": 34.91,
+                    "pickRate_1": 6.5
+                },
+                {
+                    "id": 82840102,
+                    "name": "4 约德尔人",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_yordle.png",
+                    "numList": [
+                        "2",
+                        "4",
+                        "6",
+                        "8"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 2,
+                        "num": 4,
+                        "color": 2
+                    },
+                    "allPickRate": [
+                        0.95,
+                        0.07
+                    ],
+                    "avgRanking": 3.79,
+                    "pickRate_4": 63.92,
+                    "pickRate_1": 15.75
+                },
+                {
+                    "id": 82840104,
+                    "name": "8 约德尔人",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_yordle.png",
+                    "numList": [
+                        "2",
+                        "4",
+                        "6",
+                        "8"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 4,
+                        "num": 8,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        0.93,
+                        0.07
+                    ],
+                    "avgRanking": 5.59,
+                    "pickRate_4": 27.86,
+                    "pickRate_1": 6.08
+                },
+                {
+                    "id": 82610103,
+                    "name": "6 斗士",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_brawler.png",
+                    "numList": [
+                        "2",
+                        "4",
+                        "6"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 3,
+                        "num": 6,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        0.92,
+                        0.07
+                    ],
+                    "avgRanking": 3.86,
+                    "pickRate_4": 66.98,
+                    "pickRate_1": 5.42
+                },
+                {
+                    "id": 82930102,
+                    "name": "5 弗雷尔卓德",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_freljord.png",
+                    "numList": [
+                        "3",
+                        "5",
+                        "7"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 2,
+                        "num": 5,
+                        "color": 2
+                    },
+                    "allPickRate": [
+                        0.9,
+                        0.07
+                    ],
+                    "avgRanking": 4.12,
+                    "pickRate_4": 56.97,
+                    "pickRate_1": 15.14
+                },
+                {
+                    "id": 82880102,
+                    "name": "4 神谕者",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_invoker.png",
+                    "numList": [
+                        "2",
+                        "4"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 2,
+                        "num": 4,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        0.89,
+                        0.07
+                    ],
+                    "avgRanking": 4.35,
+                    "pickRate_4": 51.57,
+                    "pickRate_1": 12.83
+                },
+                {
+                    "id": 82840103,
+                    "name": "6 约德尔人",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_yordle.png",
+                    "numList": [
+                        "2",
+                        "4",
+                        "6",
+                        "8"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 3,
+                        "num": 6,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        0.87,
+                        0.06
+                    ],
+                    "avgRanking": 4.31,
+                    "pickRate_4": 53.46,
+                    "pickRate_1": 10.89
+                },
+                {
+                    "id": 82990102,
+                    "name": "2 暗裔",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/plus_trait_icon_darkin.png",
+                    "numList": [
+                        "1",
+                        "2",
+                        "3"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 2,
+                        "num": 2,
+                        "color": 2
+                    },
+                    "allPickRate": [
+                        0.78,
+                        0.06
+                    ],
+                    "avgRanking": 3.62,
+                    "pickRate_4": 64.91,
+                    "pickRate_1": 22.92
+                },
+                {
+                    "id": 82510103,
+                    "name": "6 护卫",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_defender.png",
+                    "numList": [
+                        "2",
+                        "4",
+                        "6"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 3,
+                        "num": 6,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        0.75,
+                        0.06
+                    ],
+                    "avgRanking": 3.46,
+                    "pickRate_4": 71.96,
+                    "pickRate_1": 16.18
+                },
+                {
+                    "id": 82560102,
+                    "name": "4 主宰",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_juggernaut.png",
+                    "numList": [
+                        "2",
+                        "4",
+                        "6"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 2,
+                        "num": 4,
+                        "color": 2
+                    },
+                    "allPickRate": [
+                        0.74,
+                        0.05
+                    ],
+                    "avgRanking": 3.79,
+                    "pickRate_4": 59.88,
+                    "pickRate_1": 19.18
+                },
+                {
+                    "id": 82790101,
+                    "name": "1 远古巫灵",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_ascendant.png",
+                    "numList": [
+                        "1"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 1,
+                        "num": 1,
+                        "color": 5
+                    },
+                    "allPickRate": [
+                        0.72,
+                        0.05
+                    ],
+                    "avgRanking": 4.02,
+                    "pickRate_4": 55.82,
+                    "pickRate_1": 19.7
+                },
+                {
+                    "id": 82970101,
+                    "name": "1 不落魔锋",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_immortal.png",
+                    "numList": [
+                        "1"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 1,
+                        "num": 1,
+                        "color": 5
+                    },
+                    "allPickRate": [
+                        0.72,
+                        0.05
+                    ],
+                    "avgRanking": 4.27,
+                    "pickRate_4": 58.38,
+                    "pickRate_1": 6.88
+                },
+                {
+                    "id": 83080101,
+                    "name": "1 暗裔剑魔",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_worldender.png",
+                    "numList": [
+                        "1"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 1,
+                        "num": 1,
+                        "color": 5
+                    },
+                    "allPickRate": [
+                        0.69,
+                        0.05
+                    ],
+                    "avgRanking": 3.7,
+                    "pickRate_4": 64.03,
+                    "pickRate_1": 21.13
+                },
+                {
+                    "id": 82620102,
+                    "name": "5 诺克萨斯",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_noxus.png",
+                    "numList": [
+                        "3",
+                        "5",
+                        "7",
+                        "10"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 2,
+                        "num": 5,
+                        "color": 2
+                    },
+                    "allPickRate": [
+                        0.59,
+                        0.04
+                    ],
+                    "avgRanking": 5.23,
+                    "pickRate_4": 34.67,
+                    "pickRate_1": 8.02
+                },
+                {
+                    "id": 82630101,
+                    "name": "2 暗影岛",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_shadowisles.png",
+                    "numList": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 1,
+                        "num": 2,
+                        "color": 1
+                    },
+                    "allPickRate": [
+                        0.59,
+                        0.04
+                    ],
+                    "avgRanking": 4.34,
+                    "pickRate_4": 51.1,
+                    "pickRate_1": 8.82
+                },
+                {
+                    "id": 82550102,
+                    "name": "5 祖安",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_zaun.png",
+                    "numList": [
+                        "3",
+                        "5",
+                        "7"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 2,
+                        "num": 5,
+                        "color": 2
+                    },
+                    "allPickRate": [
+                        0.56,
+                        0.04
+                    ],
+                    "avgRanking": 4.31,
+                    "pickRate_4": 56.92,
+                    "pickRate_1": 6.53
+                },
+                {
+                    "id": 83010103,
+                    "name": "7 以绪塔尔",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_ixtal.png",
+                    "numList": [
+                        "3",
+                        "5",
+                        "7"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 3,
+                        "num": 7,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        0.52,
+                        0.04
+                    ],
+                    "avgRanking": 4.04,
+                    "pickRate_4": 53.52,
+                    "pickRate_1": 37.34
+                },
+                {
+                    "id": 83020104,
+                    "name": "10 比尔吉沃特",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_bilgewater.png",
+                    "numList": [
+                        "3",
+                        "5",
+                        "7",
+                        "10"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 4,
+                        "num": 10,
+                        "color": 4
+                    },
+                    "allPickRate": [
+                        0.48,
+                        0.03
+                    ],
+                    "avgRanking": 1.88,
+                    "pickRate_4": 88.34,
+                    "pickRate_1": 73.09
+                },
+                {
+                    "id": 82580104,
+                    "name": "5 神盾使",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_warden.png",
+                    "numList": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 4,
+                        "num": 5,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        0.43,
+                        0.03
+                    ],
+                    "avgRanking": 4.69,
+                    "pickRate_4": 44.22,
+                    "pickRate_1": 9.54
+                },
+                {
+                    "id": 82620103,
+                    "name": "7 诺克萨斯",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_noxus.png",
+                    "numList": [
+                        "3",
+                        "5",
+                        "7",
+                        "10"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 3,
+                        "num": 7,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        0.39,
+                        0.03
+                    ],
+                    "avgRanking": 5.43,
+                    "pickRate_4": 31.49,
+                    "pickRate_1": 5.52
+                },
+                {
+                    "id": 83000101,
+                    "name": "1 纳什男爵",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_riftscourge.png",
+                    "numList": [
+                        "1"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 1,
+                        "num": 1,
+                        "color": 5
+                    },
+                    "allPickRate": [
+                        0.38,
+                        0.03
+                    ],
+                    "avgRanking": 4.03,
+                    "pickRate_4": 58.98,
+                    "pickRate_1": 14.04
+                },
+                {
+                    "id": 82500103,
+                    "name": "6 虚空",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_void.png",
+                    "numList": [
+                        "2",
+                        "4",
+                        "6",
+                        "9"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 3,
+                        "num": 6,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        0.36,
+                        0.02
+                    ],
+                    "avgRanking": 4.71,
+                    "pickRate_4": 45.18,
+                    "pickRate_1": 10.84
+                },
+                {
+                    "id": 82530102,
+                    "name": "3 征服者",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_vanquisher.png",
+                    "numList": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 2,
+                        "num": 3,
+                        "color": 2
+                    },
+                    "allPickRate": [
+                        0.33,
+                        0.02
+                    ],
+                    "avgRanking": 4.55,
+                    "pickRate_4": 46.1,
+                    "pickRate_1": 14.93
+                },
+                {
+                    "id": 82630102,
+                    "name": "3 暗影岛",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_shadowisles.png",
+                    "numList": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 2,
+                        "num": 3,
+                        "color": 2
+                    },
+                    "allPickRate": [
+                        0.33,
+                        0.02
+                    ],
+                    "avgRanking": 5.14,
+                    "pickRate_4": 38.56,
+                    "pickRate_1": 3.92
+                },
+                {
+                    "id": 82810101,
+                    "name": "1 铸星龙王",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_starforger.png",
+                    "numList": [
+                        "1"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 1,
+                        "num": 1,
+                        "color": 5
+                    },
+                    "allPickRate": [
+                        0.31,
+                        0.02
+                    ],
+                    "avgRanking": 4.9,
+                    "pickRate_4": 39.31,
+                    "pickRate_1": 8.27
+                },
+                {
+                    "id": 82750102,
+                    "name": "3 恕瑞玛",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_shurima.png",
+                    "numList": [
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 2,
+                        "num": 3,
+                        "color": 2
+                    },
+                    "allPickRate": [
+                        0.29,
+                        0.02
+                    ],
+                    "avgRanking": 3.8,
+                    "pickRate_4": 63.43,
+                    "pickRate_1": 17.91
+                },
+                {
+                    "id": 82500102,
+                    "name": "4 虚空",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_void.png",
+                    "numList": [
+                        "2",
+                        "4",
+                        "6",
+                        "9"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 2,
+                        "num": 4,
+                        "color": 2
+                    },
+                    "allPickRate": [
+                        0.27,
+                        0.02
+                    ],
+                    "avgRanking": 4.6,
+                    "pickRate_4": 50,
+                    "pickRate_1": 4.76
+                },
+                {
+                    "id": 82550103,
+                    "name": "7 祖安",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_zaun.png",
+                    "numList": [
+                        "3",
+                        "5",
+                        "7"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 3,
+                        "num": 7,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        0.23,
+                        0.01
+                    ],
+                    "avgRanking": 4.29,
+                    "pickRate_4": 59.81,
+                    "pickRate_1": 6.54
+                },
+                {
+                    "id": 82630103,
+                    "name": "4 暗影岛",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_shadowisles.png",
+                    "numList": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 3,
+                        "num": 4,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        0.22,
+                        0.01
+                    ],
+                    "avgRanking": 5.44,
+                    "pickRate_4": 30.76,
+                    "pickRate_1": 1.92
+                },
+                {
+                    "id": 82930103,
+                    "name": "7 弗雷尔卓德",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_freljord.png",
+                    "numList": [
+                        "3",
+                        "5",
+                        "7"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 3,
+                        "num": 7,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        0.22,
+                        0.01
+                    ],
+                    "avgRanking": 4.1,
+                    "pickRate_4": 58.82,
+                    "pickRate_1": 10.78
+                },
+                {
+                    "id": 82620104,
+                    "name": "10 诺克萨斯",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_noxus.png",
+                    "numList": [
+                        "3",
+                        "5",
+                        "7",
+                        "10"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 4,
+                        "num": 10,
+                        "color": 4
+                    },
+                    "allPickRate": [
+                        0.2,
+                        0.01
+                    ],
+                    "avgRanking": 1.19,
+                    "pickRate_4": 98.93,
+                    "pickRate_1": 90.42
+                },
+                {
+                    "id": 82850102,
+                    "name": "4 耀光使",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_disruptor.png",
+                    "numList": [
+                        "2",
+                        "4"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 2,
+                        "num": 4,
+                        "color": 2
+                    },
+                    "allPickRate": [
+                        0.2,
+                        0.01
+                    ],
+                    "avgRanking": 3.53,
+                    "pickRate_4": 66.3,
+                    "pickRate_1": 13.04
+                },
+                {
+                    "id": 82520104,
+                    "name": "4 巨神峰",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_targon.png",
+                    "numList": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 4,
+                        "num": 4,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        0.16,
+                        0.01
+                    ],
+                    "avgRanking": 4.21,
+                    "pickRate_4": 55.26,
+                    "pickRate_1": 7.89
+                },
+                {
+                    "id": 82990103,
+                    "name": "3 暗裔",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/plus_trait_icon_darkin.png",
+                    "numList": [
+                        "1",
+                        "2",
+                        "3"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 3,
+                        "num": 3,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        0.13,
+                        0.01
+                    ],
+                    "avgRanking": 2.8,
+                    "pickRate_4": 80.95,
+                    "pickRate_1": 31.74
+                },
+                {
+                    "id": 82590103,
+                    "name": "4 迅击战士",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_quickstriker.png",
+                    "numList": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 3,
+                        "num": 4,
+                        "color": 2
+                    },
+                    "allPickRate": [
+                        0.12,
+                        0
+                    ],
+                    "avgRanking": 4.15,
+                    "pickRate_4": 61.4,
+                    "pickRate_1": 8.77
+                },
+                {
+                    "id": 82900103,
+                    "name": "6 皮尔特沃夫",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_piltover.png",
+                    "numList": [
+                        "2",
+                        "4",
+                        "6"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 3,
+                        "num": 6,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        0.11,
+                        0
+                    ],
+                    "avgRanking": 5.94,
+                    "pickRate_4": 20.37,
+                    "pickRate_1": 3.7
+                },
+                {
+                    "id": 82540102,
+                    "name": "4 裁决战士",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_slayer.png",
+                    "numList": [
+                        "2",
+                        "4",
+                        "6"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 2,
+                        "num": 4,
+                        "color": 2
+                    },
+                    "allPickRate": [
+                        0.1,
+                        0
+                    ],
+                    "avgRanking": 4.72,
+                    "pickRate_4": 44.68,
+                    "pickRate_1": 10.63
+                },
+                {
+                    "id": 82870104,
+                    "name": "5 狙神",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_longshot.png",
+                    "numList": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 4,
+                        "num": 5,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        0.08,
+                        0
+                    ],
+                    "avgRanking": 3.32,
+                    "pickRate_4": 82.5,
+                    "pickRate_1": 7.5
+                },
+                {
+                    "id": 82520105,
+                    "name": "5 巨神峰",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_targon.png",
+                    "numList": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 5,
+                        "num": 5,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        0.06,
+                        0
+                    ],
+                    "avgRanking": 5.83,
+                    "pickRate_4": 19.35,
+                    "pickRate_1": 0
+                },
+                {
+                    "id": 82630104,
+                    "name": "5 暗影岛",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_shadowisles.png",
+                    "numList": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 4,
+                        "num": 5,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        0.05,
+                        0
+                    ],
+                    "avgRanking": 6.04,
+                    "pickRate_4": 16.66,
+                    "pickRate_1": 0
+                },
+                {
+                    "id": 82530103,
+                    "name": "4 征服者",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_vanquisher.png",
+                    "numList": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 3,
+                        "num": 4,
+                        "color": 2
+                    },
+                    "allPickRate": [
+                        0.04,
+                        0
+                    ],
+                    "avgRanking": 3.86,
+                    "pickRate_4": 59.09,
+                    "pickRate_1": 13.63
+                },
+                {
+                    "id": 82500104,
+                    "name": "9 虚空",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_void.png",
+                    "numList": [
+                        "2",
+                        "4",
+                        "6",
+                        "9"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 4,
+                        "num": 9,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        0.04,
+                        0
+                    ],
+                    "avgRanking": 4.25,
+                    "pickRate_4": 60,
+                    "pickRate_1": 0
+                },
+                {
+                    "id": 82750103,
+                    "name": "4 恕瑞玛",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_shurima.png",
+                    "numList": [
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 3,
+                        "num": 4,
+                        "color": 4
+                    },
+                    "allPickRate": [
+                        0.04,
+                        0
+                    ],
+                    "avgRanking": 1,
+                    "pickRate_4": 100,
+                    "pickRate_1": 100
+                },
+                {
+                    "id": 82520106,
+                    "name": "6 巨神峰",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_targon.png",
+                    "numList": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 6,
+                        "num": 6,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        0.02,
+                        0
+                    ],
+                    "avgRanking": 6.5,
+                    "pickRate_4": 16.66,
+                    "pickRate_1": 0
+                },
+                {
+                    "id": 82560103,
+                    "name": "6 主宰",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_juggernaut.png",
+                    "numList": [
+                        "2",
+                        "4",
+                        "6"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 3,
+                        "num": 6,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        0.01,
+                        0
+                    ],
+                    "avgRanking": 5.22,
+                    "pickRate_4": 33.33,
+                    "pickRate_1": 11.11
+                },
+                {
+                    "id": 82960104,
+                    "name": "11 德玛西亚",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_demacia.png",
+                    "numList": [
+                        "3",
+                        "5",
+                        "7",
+                        "11"
+                    ],
+                    "trend": 2,
+                    "extraData": {
+                        "index": 4,
+                        "num": 11,
+                        "color": 4
+                    },
+                    "allPickRate": [
+                        0.01,
+                        0
+                    ],
+                    "avgRanking": 1,
+                    "pickRate_4": 100,
+                    "pickRate_1": 100
+                },
+                {
+                    "id": 82530104,
+                    "name": "5 征服者",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_vanquisher.png",
+                    "numList": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 4,
+                        "num": 5,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        0,
+                        0
+                    ],
+                    "avgRanking": 2,
+                    "pickRate_4": 100,
+                    "pickRate_1": 33.33
+                },
+                {
+                    "id": 82540103,
+                    "name": "6 裁决战士",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_slayer.png",
+                    "numList": [
+                        "2",
+                        "4",
+                        "6"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 3,
+                        "num": 6,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        0,
+                        0
+                    ],
+                    "avgRanking": 4,
+                    "pickRate_4": 50,
+                    "pickRate_1": 0
+                },
+                {
+                    "id": 82590104,
+                    "name": "5 迅击战士",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_quickstriker.png",
+                    "numList": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "trend": 1,
+                    "extraData": {
+                        "index": 4,
+                        "num": 5,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        0,
+                        0
+                    ],
+                    "avgRanking": 0,
+                    "pickRate_4": 0,
+                    "pickRate_1": 0
+                },
+                {
+                    "id": 82680101,
+                    "name": "3 艾欧尼亚",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_ionia.png",
+                    "numList": [
+                        "3",
+                        "5",
+                        "7"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 1,
+                        "num": 3,
+                        "color": 1
+                    },
+                    "allPickRate": [
+                        0,
+                        0
+                    ],
+                    "avgRanking": 0,
+                    "pickRate_4": 0,
+                    "pickRate_1": 0
+                },
+                {
+                    "id": 82680102,
+                    "name": "5 艾欧尼亚",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_ionia.png",
+                    "numList": [
+                        "3",
+                        "5",
+                        "7"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 2,
+                        "num": 5,
+                        "color": 2
+                    },
+                    "allPickRate": [
+                        0,
+                        0
+                    ],
+                    "avgRanking": 0,
+                    "pickRate_4": 0,
+                    "pickRate_1": 0
+                },
+                {
+                    "id": 82680103,
+                    "name": "7 艾欧尼亚",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_ionia.png",
+                    "numList": [
+                        "3",
+                        "5",
+                        "7"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 3,
+                        "num": 7,
+                        "color": 3
+                    },
+                    "allPickRate": [
+                        0,
+                        0
+                    ],
+                    "avgRanking": 0,
+                    "pickRate_4": 0,
+                    "pickRate_1": 0
+                },
+                {
+                    "id": 82680104,
+                    "name": "10 艾欧尼亚",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_ionia.png",
+                    "numList": [
+                        "3",
+                        "5",
+                        "7",
+                        "10"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 4,
+                        "num": 10,
+                        "color": 0
+                    },
+                    "allPickRate": [
+                        0,
+                        0
+                    ],
+                    "avgRanking": 0,
+                    "pickRate_4": 0,
+                    "pickRate_1": 0
+                },
+                {
+                    "id": 82840105,
+                    "name": "10 约德尔人",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_yordle.png",
+                    "numList": [
+                        "2",
+                        "4",
+                        "6",
+                        "8",
+                        "10"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 5,
+                        "num": 10,
+                        "color": 0
+                    },
+                    "allPickRate": [
+                        0,
+                        0
+                    ],
+                    "avgRanking": 0,
+                    "pickRate_4": 0,
+                    "pickRate_1": 0
+                },
+                {
+                    "id": 83060101,
+                    "name": "2 光明哨兵",
+                    "img": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s17/trait/s16_trait_icon_sentinelsoflight.png",
+                    "numList": [
+                        "2"
+                    ],
+                    "trend": 0,
+                    "extraData": {
+                        "index": 1,
+                        "num": 2,
+                        "color": 5
+                    },
+                    "allPickRate": [
+                        0,
+                        0
+                    ],
+                    "avgRanking": 0,
+                    "pickRate_4": 0,
+                    "pickRate_1": 0
+                }
+            ]
+        }
+    },
+    "status": {
+        "code": 200,
+        "msg": "操作成功",
+        "usedtime": 2.508,
+        "cache": false,
+        "requestId": "86662a6100f53a576e11162b873564e8",
+        "loginId": 0,
+        "icp": "沪ICP备16031287号-2"
+    },
+    "hello": {
+        "_docs": "介绍文档 -> https://91m.top/s/docs",
+        "_tips": "数据来源公开对局，个人学习上分使用，一切请以官方为准。如需调用接口，联系小助理：tiYn78u5pr4ra6oFy",
+        "serverId": "f528764d624db129"
+    }
+}
