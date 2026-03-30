@@ -138,9 +138,16 @@ select {
 .rank-meta { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
 .local-matrix-item { padding: 14px; border-radius: 18px; border: 1px solid var(--line); }
 .local-matrix-item strong { display: block; margin-bottom: 8px; color: var(--ink); }
-.intel-hero { display: grid; grid-template-columns: 1.15fr .85fr; gap: 16px; margin-bottom: 16px; }
-.intel-feed { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
-.intel-meta { display: flex; justify-content: space-between; gap: 10px; font-size: 12px; margin-bottom: 10px; }
+.intel-panel.is-compact { padding-top: 18px; padding-bottom: 18px; }
+.intel-panel.is-compact .panel-head { margin-bottom: 12px; }
+.intel-compact-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; margin-bottom: 12px; }
+.intel-feed { display: grid; grid-template-columns: minmax(0, 1fr); gap: 12px; }
+.intel-card.compact { padding: 16px 18px; border-radius: 18px; }
+.intel-meta { display: flex; justify-content: space-between; gap: 10px; font-size: 12px; margin-bottom: 8px; }
+.dev-badge {
+  display: inline-flex; align-items: center; min-height: 28px; padding: 4px 10px; border-radius: 999px;
+  background: rgba(201, 91, 53, 0.12); color: var(--accent); font-size: 12px; font-weight: 700;
+}
 .intel-link { display: inline-flex; align-items: center; gap: 8px; margin-top: 14px; font-size: 13px; font-weight: 700; }
 .product-note { line-height: 1.8; }
 .matrix-wrap { overflow: auto; margin-top: 14px; padding-bottom: 4px; }
@@ -161,9 +168,10 @@ select {
 .legend-dot.is-conditional { background: var(--accent); }
 .empty-state { padding: 18px; border-radius: 18px; border: 1px dashed var(--line); background: rgba(255,255,255,.54); line-height: 1.8; }
 @media (max-width: 1140px) {
-  .hero, .workspace, .profile-top, .detail-grid, .insight-grid, .compare-grid, .summary-grid, .summary-grid.summary-top, .rank-grid, .strategy-grid, .form-grid, .input-shell, .intel-hero, .intel-feed, .stage-grid, .local-matrix { grid-template-columns: 1fr; }
+  .hero, .workspace, .profile-top, .detail-grid, .insight-grid, .compare-grid, .summary-grid, .summary-grid.summary-top, .rank-grid, .strategy-grid, .form-grid, .input-shell, .intel-compact-grid, .intel-feed, .stage-grid, .local-matrix { grid-template-columns: 1fr; }
   .page-shell { width: min(100vw - 20px, 1440px); padding-top: 14px; }
   .sidebar { position: static; }
   .panel-head, .action-row { flex-direction: column; align-items: flex-start; }
   .tab-switcher { width: 100%; }
 }
+

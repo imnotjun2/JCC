@@ -15,15 +15,6 @@ const labelTone = {
   "条件互克": "is-conditional",
 };
 
-const intelFeed = [
-  { creator: "小鱼一图流", platform: "公众号", title: "版本强势阵容重新分层", time: "今天 09:20", type: "环境变化", tags: ["法师安妮", "诺克千珏"], summary: "当前环境里高上限后期阵重新抬头，稳定吃分阵和冲顶阵的分界比前几天更明显。" },
-  { creator: "林小北 Lindo", platform: "B站", title: "决赛圈最常见的阶段性反转对局", time: "今天 11:40", type: "对局教学", tags: ["以绪塔尔岩宝", "巨神峰玛尔扎哈"], summary: "前中期小劣但后期翻盘的对局明显增多，关键不是总分，而是成型节点和换边处理。" },
-  { creator: "白衣", platform: "抖音", title: "当前最值得防的中期压制阵", time: "今天 13:10", type: "环境变化", tags: ["巨神峰玛尔扎哈", "护卫薇恩"], summary: "如果你玩的不是中期强势阵，这类对手最容易在 4-2 到 5-1 这段时间把你直接打穿。" },
-  { creator: "沈小夏", platform: "公众号", title: "这版本海克斯选择更看环境而不是固定答案", time: "今天 15:00", type: "海克斯理解", tags: ["法师安妮", "约德尔人维迦"], summary: "同一套阵容在不同 8 家环境里，优先级最高的并不一定是通用海克斯，而是能补当前短板的那一类。" },
-  { creator: "金铲铲33", platform: "抖音", title: "高频上分阵的站位失误点", time: "今天 18:30", type: "站位理解", tags: ["比尔沃特厄运小姐", "枪手海克斯霸龙"], summary: "很多输掉的对局不是阵容弱，而是主C过于固定站位，被对角或切后处理掉。" },
-  { creator: "JCCBot", platform: "Bot 推送", title: "今晚重点看的不是榜单，是环境矩阵", time: "今晚 20:00", type: "日报摘要", tags: ["环境矩阵", "对局分析"], summary: "先看今天谁在互相克制，再决定自己这把是保血、抢节奏，还是拖到后期接管。" },
-];
-
 function splitValues(value, separator = "|") {
   return String(value || "").split(separator).map((item) => item.trim()).filter(Boolean);
 }
@@ -366,31 +357,27 @@ function renderBattleTab() {
   });
 }
 function renderIntelFeed() {
-  const filtered = intelFeed.filter((item) => item.tags.includes(state.activeProfile));
-  const cards = (filtered.length ? filtered : intelFeed.slice(0, 4)).slice(0, 4);
   document.getElementById("intelIntro").innerHTML = `
-    <div class="intel-hero">
-      <div class="intel-card">
-        <h3>JCCBot 做什么</h3>
-        <p class="product-note">JCCBot 不是单独的信息流，而是工作台的外部入口。它负责每天推送上分日报、环境矩阵和精选情报摘要，再把用户导回网页做阵容对阵和对局分析。</p>
+    <div class="intel-compact-grid">
+      <div class="intel-card compact">
+        <div class="intel-meta"><span>JCCBot</span><span class="dev-badge">开发中</span></div>
+        <h3>今日上分日报</h3>
+        <p class="product-note">这个区域暂时只保留日报入口位，后续再接入自动生成的环境摘要、矩阵提醒和单局信号。</p>
       </div>
-      <div class="intel-card">
-        <h3>当前联动方式</h3>
-        <p class="product-note">日报负责触达，矩阵负责建立版本理解，情报卡片负责补环境变化和新理解。进入网页后，再落到阵容池、阵容对阵和对局分析这三个核心动作上。</p>
+      <div class="intel-card compact">
+        <div class="intel-meta"><span>当前联动</span><span>${state.activeProfile}</span></div>
+        <p class="product-note">日报会围绕当前阵容池和环境矩阵做轻量触达，主工作流仍然回到网页里的阵容对阵和对局分析。</p>
       </div>
     </div>
   `;
-  document.getElementById("intelFeed").innerHTML = cards.map((item) => `
-    <article class="intel-card">
-      <div class="intel-meta"><span>${item.creator} · ${item.platform}</span><span>${item.time}</span></div>
-      <h3>${item.title}</h3>
-      <div class="intel-tags">${item.tags.map((tag) => `<span class="intel-tag">${tag}</span>`).join("")}</div>
-      <p>${item.summary}</p>
-      <div class="intel-link">${item.type}</div>
+  document.getElementById("intelFeed").innerHTML = `
+    <article class="intel-card compact daily-report-card">
+      <div class="intel-meta"><span>开发占位</span><span>今日上分日报.py</span></div>
+      <h3>今日上分日报</h3>
+      <p>这里先作为 JCCBot 的日报卡片位，后续只接日报、矩阵摘要和关键提醒。</p>
     </article>
-  `).join("");
+  `;
 }
-
 function renderMatrix() {
   const names = allProfiles().map((profile) => profile.display_name);
   const head = names.map((name) => `<th class="col-head ${name === state.activeProfile ? "is-active" : ""}">${name}</th>`).join("");
@@ -460,3 +447,5 @@ init().catch((error) => {
     </div>
   `;
 });
+
+
