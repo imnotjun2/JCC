@@ -1,0 +1,53 @@
+{
+  "exported_at": "2026-03-29T21:54:31",
+  "tables": {
+    "import_batches": {
+      "row_count": 5
+    },
+    "comp_game_modes": {
+      "row_count": 2
+    },
+    "comp_rankings": {
+      "row_count": 25
+    },
+    "comp_pieces": {
+      "row_count": 200
+    },
+    "comp_piece_equipments": {
+      "row_count": 222
+    },
+    "unit_rankings": {
+      "row_count": 134
+    },
+    "unit_traits": {
+      "row_count": 241
+    },
+    "unit_recommended_equipments": {
+      "row_count": 520
+    },
+    "unit_tags": {
+      "row_count": 583
+    },
+    "trait_rankings": {
+      "row_count": 113
+    },
+    "trait_num_levels": {
+      "row_count": 348
+    },
+    "augment_rankings": {
+      "row_count": 275
+    },
+    "augment_stage_stats": {
+      "row_count": 825
+    },
+    "item_rankings": {
+      "row_count": 201
+    },
+    "item_pieces": {
+      "row_count": 745
+    },
+    "item_tags": {
+      "row_count": 166
+    }
+  }
+}

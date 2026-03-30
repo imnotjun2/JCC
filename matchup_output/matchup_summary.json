@@ -1,0 +1,11 @@
+{
+  "profiles_count": 25,
+  "matchups_count": 600,
+  "unique_comps": 25,
+  "output_dir": "D:\\Codex\\matchup_output",
+  "notes": [
+    "这是规则型自动推断，不是官方真实 head-to-head 胜率。",
+    "若你想提高准确度，请编辑 comp_profiles_overrides.csv（或模板）修正少数阵容画像。",
+    "优先使用 comp_matchups_top3.csv 做前端展示，comp_matchups_auto.csv 做完整查询。"
+  ]
+}

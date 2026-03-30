@@ -1,0 +1,3 @@
+﻿_row_id,batch_id,mode_name,mode_filter,sample_num,update_time,raw_json
+1,1,英雄联盟传奇,s17set16match31,5739,2026-03-19 07:30:00,"{""name"":""英雄联盟传奇"",""filter"":""s17set16match31"",""num"":5739,""updateTime"":""2026-03-19 07:30:00""}"
+2,1,天选福星,s100018set4match2018,2646,2026-03-19 07:30:00,"{""name"":""天选福星"",""filter"":""s100018set4match2018"",""num"":2646,""updateTime"":""2026-03-19 07:30:00""}"
