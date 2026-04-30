@@ -96,6 +96,31 @@ function renderProfile() {
   const profile = findProfile(state.activeProfile);
   const top3 = state.data.top3.find((item) => item.display_comp_name === state.activeProfile);
   const phases = splitValues(profile.phase_profile).map((chunk) => chunk.replace("early:", "前期 ").replace("mid:", "中期 ").replace("late:", "后期 "));
+
+  // 生成核心棋子图标HTML
+  const coreUnits = splitValues(profile.core_units);
+  const unitIconsHtml = coreUnits.map(unitName => {
+    const iconUrl = getUnitIcon(unitName);
+    return iconUrl ? `
+      <div class="unit-icon-item">
+        <img src="${iconUrl}" alt="${unitName}" class="profile-unit-icon" title="${unitName}">
+        <span class="unit-icon-name">${unitName}</span>
+      </div>
+    ` : `<span class="tag">${unitName}</span>`;
+  }).join('');
+
+  // 生成优先海克斯图标HTML
+  const priorityAugments = splitValues(profile.priority_augments).slice(0, 8);
+  const augmentIconsHtml = priorityAugments.map(augmentName => {
+    const iconUrl = getAugmentIcon(augmentName);
+    return iconUrl ? `
+      <div class="augment-icon-item">
+        <img src="${iconUrl}" alt="${augmentName}" class="profile-augment-icon" title="${augmentName}">
+        <span class="augment-icon-name">${augmentName}</span>
+      </div>
+    ` : `<span class="tag">${augmentName}</span>`;
+  }).join('');
+
   document.getElementById("profilePanel").innerHTML = `
     <div class="profile-top">
       <div class="profile-title">
@@ -110,9 +135,9 @@ function renderProfile() {
       </div>
       <div class="detail-card">
         <h3>核心棋子</h3>
-        <div class="tag-list">${tagList(splitValues(profile.core_units))}</div>
+        <div class="icon-list">${unitIconsHtml}</div>
         <h3 style="margin-top:18px;">优先海克斯</h3>
-        <div class="tag-list">${tagList(splitValues(profile.priority_augments).slice(0, 8))}</div>
+        <div class="icon-list">${augmentIconsHtml}</div>
       </div>
     </div>
     <div class="detail-grid">
