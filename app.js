@@ -1,4 +1,4 @@
-﻿const state = {
+﻿﻿const state = {
   data: null,
   activeProfile: null,
   activeTab: "pairwise",
